@@ -25,6 +25,6 @@ Controller Board + LED Board
 ## Android App to Controll the Lamp
 The Smart RGBW Lamp can be controller through his Android APP. These are the main features:
 - Adjustble Brightness for each Color in PWM with a 13 bit resolution, up to 8192 steps.
-- Set the time to turn ON/OFF the light
+- Set the time to turn ON/OFF the light.
 - Adjust the fading for the rising UP/DOWN to turn ON/OFF the lamp.
--
+- Update the firmware via OTA.
