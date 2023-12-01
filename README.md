@@ -22,3 +22,4 @@ Controller Board + LED Board
 - PCB in Aluminium for Heat Dissipation
 - Temperature Built-in Sensor
   
+## Android App to Controll the Lamp
