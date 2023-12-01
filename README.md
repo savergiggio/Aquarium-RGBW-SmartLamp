@@ -26,7 +26,7 @@ Controller Board + LED Board
 - 4 LED-Driver, 1 for each LED Color with PWM Control to adjust the brightness (RED,GREEN,BLUE,WHITE).
 - MAX VCC input 26V
 - **BLUETOOTH** Connection for controll with Smartphone APP.
-- **WIFI** OTA Updates.
+- **WIFI** OTA Updates (OPTIONAL).
 
 ### Overview of the LED Board:
 - 4 LED of 12W each (RED, GREEN, BLUE, WHITE) , 48W Total Power XXX LUMEN
@@ -48,6 +48,11 @@ The main idea is to make as much as possible the project easy to realize at home
 
 # Next Steps
 -
---
----
-----
+-
+-
+-
+
+
+
+
+
