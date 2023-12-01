@@ -28,3 +28,5 @@ The Smart RGBW Lamp can be controller through his Android APP. These are the mai
 - Set the time to turn ON/OFF the light.
 - Adjust the fading for the rising UP/DOWN to turn ON/OFF the lamp.
 - Update the firmware via OTA.
+
+![My Image](src/image1.jpg)
