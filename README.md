@@ -47,3 +47,4 @@ The main idea is to make as much as possible the project easy to realize at home
 2. 3D Printed Case. This solution is aesthetically worse respect the alluminium case, but this permit to have a custom case with a more power fan for heat dissipation, permitting to have lower temperatures of the lamp.
 
 # Next Challenges
+
