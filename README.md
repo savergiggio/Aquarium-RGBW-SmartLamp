@@ -47,7 +47,8 @@ The main idea is to make as much as possible the project easy to realize at home
 2. 3D Printed Case. This solution is aesthetically worse respect the alluminium case, but this permit to have a custom case with a more power fan for heat dissipation, permitting to have lower temperatures of the lamp.
 
 # SUPPORT ME
-If you would like to support my project, and continue to develop it you can subscribe as **PATREON** at the following link: https://patreon.com/RGBWSmartAquariumLamp or make a donation to my **PAYPAL** account: pasqualetripodi14@gmail.com.
+If you would like to support my project, and continue to develop it you can subscribe as **PATREON** at the following link: https://patreon.com/RGBWSmartAquariumLamp 
+or make a donation to my **PAYPAL** account: pasqualetripodi14@gmail.com.
 All the materials will be available for free to download, for this reason I only inserted a symbolic price, of 3€, when downloading the app from the Play Store. If you already made a donation or you are a patreon please write to me , i will give you the app for FREE.
 
 
