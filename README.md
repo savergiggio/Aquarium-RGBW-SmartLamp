@@ -34,6 +34,6 @@ The Smart RGBW Lamp can be controller through his Android APP. These are the mai
 - Update the firmware via OTA.
 
 ## 3D Printed Case or Alluminium Case
-The main idea is to make as much as possible the project easy to realize at home , when possible. For this reason, i opted for 2 solution.
+The main idea is to make as much as possible the project easy to realize at home , when possible. For this reason, i opted for 2 solutions.
 1. Case in Alluminium. I found this alluminium case in a chinese store for 10$.
 2. 3D Printed Case. This solution is aesthetically worse respect the alluminium case, but this permit to have a custom case with a more power fan for heat dissipation, permitting to have lower temperatures of the lamp.
