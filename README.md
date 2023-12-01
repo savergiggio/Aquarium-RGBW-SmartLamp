@@ -11,7 +11,7 @@ A very big thank you to my company  **JLCPCB** one of my partners that contrubut
 You can register from this link to GET an instant quote : https://jlcpcb.com/quote 
 
 <p align="center">
-    <img width="30%" [src="/sponsor.png"] (https://jlcpcb.com/quote )>
+    <img width="30%" src="/sponsor.png" (https://jlcpcb.com/quote )>
 </p>
 
 ## The Two Main Components:
