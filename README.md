@@ -1,6 +1,6 @@
-<div style="image-align: center;">
+<p align="center">
     <img width="30%" src="/welcome.png">
-</div>
+</p>
 
 # Aquarium-RGBW-SmartLamp
 An OpenSource project about a RGBW Lamp for Aquariums, with all the main and more features that an aquarium lamp needs!
