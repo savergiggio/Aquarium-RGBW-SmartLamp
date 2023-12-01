@@ -16,3 +16,9 @@ Controller Board + LED Board
 - MAX VCC input 26V
 - **BLUETOOTH** Connection for controll with Smartphone APP.
 - **WIFI** OTA Updates.
+
+### Overview of the LED Board:
+- 4 LED of 12W each (RED, GREEN, BLUE, WHITE) , 48W Total Power
+- PCB in Aluminium for Heat Dissipation
+- Temperature Built-in Sensor
+  
