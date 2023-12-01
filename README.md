@@ -2,6 +2,10 @@
     <img width="30%" src="/welcome.png">
 </p>
 
+<p align="center">
+    <img width="30%" src="[https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png]">
+</p>
+
 # Aquarium-RGBW-SmartLamp
 An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and more features that an aquarium lamp needs! **So let's go in deep in the project**
 
