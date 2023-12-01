@@ -2,8 +2,8 @@
     <img width="30%" src="/welcome.png">
 </p>
 
-<p align="center">
-    <img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
+<p align="left">
+    <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png">
 </p>
 
 # Aquarium-RGBW-SmartLamp
