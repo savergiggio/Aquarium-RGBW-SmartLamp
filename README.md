@@ -1,3 +1,5 @@
+![My Image](images/welcome.png)
+
 # Aquarium-RGBW-SmartLamp
 An OpenSource project about a RGBW Lamp for Aquariums, with all the main and more features that an aquarium lamp needs!
 
