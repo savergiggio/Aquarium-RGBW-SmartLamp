@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img width="25%" src="/welcome.png">
+    <img width="50%" src="/welcome.png">
 </div>
 
 # Aquarium-RGBW-SmartLamp
