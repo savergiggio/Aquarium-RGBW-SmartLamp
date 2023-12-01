@@ -8,7 +8,7 @@ An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and mo
 # BUT FIRST....
 A very big thank you to the company  **JLCPCB** one of my partners that contrubuted to realise the PCBs of the Controller and Led Boards. 
 **JLCPCB** is a global PCB manufacturer. It has a cost of $2 for 1-8 layer PCB prototyping; PCB Assembly from $0 ,3D Printing starts at $0.3. 
-You can register from this link to GET an instant quote : https://jlcpcb.com/quote 
+You can register from this link to GET an instant quote for your projects : https://jlcpcb.com/quote 
 
 <p align="center">
     <img width="30%" src="/sponsor.png" (https://jlcpcb.com/quote )>
