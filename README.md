@@ -11,7 +11,7 @@ A very big thank you to the company  **JLCPCB** one of my partners that contrubu
 **JLCPCB** is a global PCB manufacturer. It has a cost of $2 for 1-8 layer PCB prototyping; PCB Assembly from $0 ,3D Printing starts at $0.3. 
 You can register from this link to GET an instant quote for your projects : https://jlcpcb.com/quote 
 
-<p align="left">
+<p align="center">
     <img width="10%" src="/sponsor.png" (https://jlcpcb.com/quote )>
 </p>
 
