@@ -14,5 +14,5 @@ Controller Board + LED Board
   - Aquarium Water Temperature.
 - 4 LED-Driver, 1 for each LED Color with PWM Control to adjust the brightness (RED,GREEN,BLUE,WHITE).
 - MAX VCC input 26V
-- <p style='color:blue'>BLUETOOTH</p> Connection for controll with Smartphone APP.
+- <code style="color : blue">BLUETOOTH</code> Connection for controll with Smartphone APP.
 - **WIFI** OTA Updates.
