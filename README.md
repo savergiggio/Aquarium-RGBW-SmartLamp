@@ -3,7 +3,12 @@
 </p>
 
 # Aquarium-RGBW-SmartLamp
-An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and more features that an aquarium lamp needs!
+An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and more features that an aquarium lamp needs! **So let's go in deep in the project**
+
+# BUT FIRST....
+A very big thank you to my company  **JLCPCB** one of my partners that contrubuted to realise the PCBs of the Controller Boards and Led Boards. 
+**JLCPCB** is a global PCB manufacturer. It has a cost of $2 for 1-8 layer PCB prototyping; PCB Assembly from $0 ,3D Printing starts at $0.3. 
+You can register from this link to GET an instant quote : https://jlcpcb.com/quote 
 
 
 ## The Two Main Components:
@@ -37,3 +42,5 @@ The Smart RGBW Lamp can be controller through his Android APP. These are the mai
 The main idea is to make as much as possible the project easy to realize at home , when possible. For this reason, i opted for 2 solutions.
 1. Case in Alluminium. I found this alluminium case in a chinese store for 10$.
 2. 3D Printed Case. This solution is aesthetically worse respect the alluminium case, but this permit to have a custom case with a more power fan for heat dissipation, permitting to have lower temperatures of the lamp.
+
+# Next Challenges
