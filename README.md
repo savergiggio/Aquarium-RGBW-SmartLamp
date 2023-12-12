@@ -54,11 +54,11 @@ or make a donation to my **PAYPAL** account: pasqualetripodi14@gmail.com.
 All the materials will be available for free to download, for this reason I only inserted a symbolic price, of 2,99€, when downloading the app from the Play Store. If you already made a donation or you are a patreon please write to me , i will give you the app for FREE.
 
 
-# Next Steps
--
--
--
--
+# Next APP Features
+- Add Pre-defined lights ambient scenarios
+- Add hours's history of working lamp
+- Add possibility to edit the lamp's name
+- ...
 
 
 
