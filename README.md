@@ -58,7 +58,7 @@ All the materials will be available for free to download, for this reason I only
 - Add Pre-defined lights ambient scenarios
 - Add hours's history of working lamp
 - Add possibility to edit the lamp's name
-- ...
+- Add a Wi-Fi Version remotely accessible
 
 
 # General QA
