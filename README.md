@@ -61,6 +61,11 @@ All the materials will be available for free to download, for this reason I only
 - ...
 
 
+# General QA
+1. How can i pair the lamp?
+   - Go to the settings of your phone and pair from there the lamp device, once done open the app and start the scanning process.
+2. How can i update the firmware?
+   - Open the app and go to "info" (the green icon on the main menu), press "UPDATE FIRMWARE". The device will be setted-up in AP mode with SSID "LAMP_updater" and type the password "aquariumlife". Once connected open a tap on browser and type the following address [192.168.4.1](http://192.168.4.1/update)http://192.168.4.1/update , now "Select file" and choose the .bin you downloaded, the process will start automatically.
 
 
 
