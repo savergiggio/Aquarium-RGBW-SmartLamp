@@ -51,7 +51,7 @@ The main idea is to make as much as possible the project easy to realize at home
 If you would like to support my project, and continue to develop it you can subscribe as **PATREON** at the following link: https://patreon.com/RGBWSmartAquariumLamp 
 or make a donation to my **PAYPAL** account: pasqualetripodi14@gmail.com.
 
-All the materials will be available for free to download, for this reason I only inserted a symbolic price, of 2,99€, when downloading the app from the Play Store. If you already made a donation or you are a patreon please write to me , i will give you the app for FREE.
+All the materials will be available for free to download, for this reason I only inserted a symbolic price of 2.99€, when downloading the app from the Play Store, but you can compile it for free anyway. If you already made a donation or you are a patreon please write to me , i will give you the app for FREE.
 
 
 # Next APP Features
