@@ -25,7 +25,7 @@ Controller Board + LED Board
   - Led Board Controller.
   - Aquarium Water Temperature.
 - 4 LED-Driver, 1 for each LED Color with PWM Control to adjust the brightness (RED,GREEN,BLUE,WHITE).
-- MAX VCC input 26V
+- MAX VCC input 26V, MINIMUM 3A.
 - **BLUETOOTH** Connection for controll with Smartphone APP.
 - **WIFI** OTA Updates (OPTIONAL).
 
@@ -61,7 +61,7 @@ All the materials will be available for free to download, for this reason I only
 - Add a Wi-Fi Version remotely accessible
 
 
-# General QA
+# General Q.A.
 1. How can i pair the lamp with the phone?
    - Go to the settings of your phone and pair from there the lamp device, once done open the app and start the scanning process.
 2. How can i update the firmware?
