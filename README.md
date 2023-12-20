@@ -13,7 +13,6 @@ An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and mo
     <img width="25%" src="/Project Images/4.png">
     <img width="25%" src="/Project Images/5.png">
     <img width="25%" src="/Project Images/6.png">
-    <img width="25%" src="/Project Images/7.png">
     <img width="25%" src="/Project Images/8.png">
 </p>
 
