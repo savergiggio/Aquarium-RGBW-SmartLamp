@@ -7,8 +7,8 @@
 An OpenSource project about a RGBW Lamp for Aquariums, with all the main, and more features that an aquarium lamp needs! **So let's go in deep in the project**
 
 <p align="center">
-    <img width="70%" src="/Project Images/1.JPG">
-    <img width="70%" src="/Project Images/2.JPG">
+    <img width="100%" src="/Project Images/1.JPG">
+    <img width="100%" src="/Project Images/2.JPG">
 </p>
 
 # BUT FIRST.... MY SPONSOR
