@@ -34,7 +34,7 @@ Controller Board + LED Board
 - **WIFI** OTA Updates (OPTIONAL).
 
 ### Overview of the LED Board:
-- 4 LED of 6W each (RED, GREEN, BLUE, WHITE) , 24W Total Power and 840 LUMEN
+- 4 LED of 12W each (RED, GREEN, BLUE, WHITE) , 48W Total Power and 1680 LUMEN
 - PCB in Aluminium for Heat Dissipation
 - Temperature Built-in Sensor
 - FAN for Heat Dissipation with Alluminium HeatSink
