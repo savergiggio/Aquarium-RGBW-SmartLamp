@@ -15,6 +15,11 @@ You can register from this link to GET an instant quote for your projects : http
     <img width="30%" src="/sponsor.png" (https://jlcpcb.com/quote )>
 </p>
 
+## List of Materials:
+- Power Supply 24V/3A
+- WRGB Leds : https://a.aliexpress.com/_EznZfIh
+- 
+
 ## The Two Main Components:
 Controller Board + LED Board
 
@@ -30,7 +35,7 @@ Controller Board + LED Board
 - **WIFI** OTA Updates (OPTIONAL).
 
 ### Overview of the LED Board:
-- 4 LED of 12W each (RED, GREEN, BLUE, WHITE) , 48W Total Power XXX LUMEN
+- 4 LED of 6W each (RED, GREEN, BLUE, WHITE) , 24W Total Power and 840 LUMEN
 - PCB in Aluminium for Heat Dissipation
 - Temperature Built-in Sensor
 - FAN for Heat Dissipation with Alluminium HeatSink
