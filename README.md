@@ -18,7 +18,6 @@ You can register from this link to GET an instant quote for your projects : http
 ## List of Materials:
 - Power Supply 24V/3A
 - WRGB Leds : https://a.aliexpress.com/_EznZfIh
-- 
 
 ## The Two Main Components:
 Controller Board + LED Board
